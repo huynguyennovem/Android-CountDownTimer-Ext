@@ -1,5 +1,4 @@
-# Android-CountDownTimer-Ext
-Android CountDownTimer supports pause and resume
+### Android CountDownTimer supports pause and resume
 
 **How to use**
 
